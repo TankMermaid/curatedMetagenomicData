@@ -33,6 +33,8 @@ For more extensive information on installing and using `curatedMetagenomicData` 
 
 Contributions will gladly be accepted provided they fit within the context of the project. Please see  [CONTRIBUTING.md](https://github.com/waldronlab/curatedMetagenomicData/blob/master/CONTRIBUTING.md) for information regarding reporting bugs, pull request, adding datasets and other issues.
 
+Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
+
 ## Copyright and License
 
 **curatedMetagenomicData** is Free software licensed under the Artistic License 2.0 (copied here as the LICENSE file, verbatim as required by the Perl Foundation). For the purposes of this license, the "Copyright Holders" are the authors of the manuscript (https://www.nature.com/articles/nmeth.4468). In general you may use and re-distribute original and modified versions of the software under very permissive conditions. The appropriate citation information for each dataset can be found by doing `experimentData(eset)` (where `eset` is the name of the ExpressionSet class data object), by looking at the man page of the dataset (e.g. `?HMP_2012`), or by looking at the reference manual of the [development](http://bioconductor.org/packages/devel/data/experiment/html/curatedMetagenomicData.html)  or [release](http://bioconductor.org/packages/release/data/experiment/html/curatedMetagenomicData.html) version.

@@ -3,6 +3,7 @@
 ^\.travis\.yml$
 ^appveyor\.yml$
 ^codecov\.yml$
-LICENSE
-CONTRIBUTING.md
-README.md
+^LICENSE$
+^CONDUCT\.md$
+^CONTRIBUTING.md$
+^README.md$
